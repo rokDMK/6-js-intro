@@ -8,6 +8,7 @@
     "numbers": "nodemon ./js/01-numbers.js",
     "string": "nodemon ./js/02-string.js",
     "for": "nodemon ./js/08-for.js",
+    "multiply": "nodemon ./js/09-multiply.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
