@@ -6,12 +6,15 @@
   "scripts": {
     "dev": "nodemon",
     "numbers": "nodemon ./js/01-numbers.js",
+    "string": "nodemon ./js/02-string.js",
+    "for": "nodemon ./js/08-for.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Rokas",
   "license": "MIT",
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "prettier": "2.7.1"
   }
 }
